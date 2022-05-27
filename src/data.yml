@@ -421,7 +421,7 @@ mailProviders:
     level: 1
   openSource:
     text: 'No'
-    level: 1
+    level: 3
   onionSite:
     text: 'No'
     level: 3
